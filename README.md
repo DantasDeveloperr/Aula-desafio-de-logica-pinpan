@@ -57,8 +57,22 @@ Os arquivos estão organizados por temas de estudo:
 - Go instalado na máquina  
   👉 https://go.dev/dl/
 
-### Passos
+- Clone o repositorio:
+  ```bash
+  git clone https://github.com/DantasDeveloperr/Aula-desafio-de-logica-pinpan.git
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/DantasDeveloperr/Aula-desafio-de-logica-pinpan.git
+---
+
+### 📌 Observações
+
+Cada arquivo pode ser executado individualmente
+
+Os exemplos têm foco educacional
+
+O código prioriza clareza e aprendizado, não otimização extrema
+
+👨‍💻 Autor
+
+Adriano Dantas
+Estudante e entusiasta de desenvolvimento de software
+GitHub: https://github.com/DantasDeveloperr

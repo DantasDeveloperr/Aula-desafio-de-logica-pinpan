@@ -1,4 +1,4 @@
-# 📘 Aula – Desafios de Lógica em Go (Golang)
+# 📘 Aula & Desafios de Lógica em Go (Golang)
 
 Este repositório reúne **exercícios e desafios de lógica de programação em Go (Golang)**, abordando desde conceitos básicos até tópicos mais importantes da linguagem, como **funções, recursão, closures, concorrência e comunicação entre goroutines**.
 

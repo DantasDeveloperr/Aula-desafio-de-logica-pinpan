@@ -4,6 +4,7 @@ GET
 POST
 DELETE
 PUT
+PATH
 */
 
 package main

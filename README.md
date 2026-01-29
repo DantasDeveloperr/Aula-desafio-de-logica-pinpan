@@ -44,12 +44,17 @@ Os arquivos estão organizados por temas de estudo:
 ### 🔹 Aplicações e Exemplos Práticos
 
 📁 APIRest/
+          └── API.go
 Exemplos de criação de uma API REST em Go, abordando conceitos como rotas, handlers e respostas HTTP.
 
 📁 Json/
+       ├──  json.go
+       └──  usuario.json
 Exemplos de manipulação de dados JSON em Go, incluindo encoding e decoding entre structs e JSON.
 
 📁 ServidorEstatico/
+                   ├──  servidor.go
+                   └──  servi.HTML
 Implementação de um servidor HTTP estático em Go, demonstrando como servir arquivos e páginas usando a biblioteca padrão.
 
 

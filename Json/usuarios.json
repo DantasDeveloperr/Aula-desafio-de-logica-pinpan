@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "name" : "Joao",
+            "Tipo" : "Leitura",
+            "Idade" : 25,
+            "Email" : "joao@example.com",
+            "Social" : {
+                "Twitter" : "@joao",
+                "Facebook" : "fb.com/joao"
+            }
+        },
+        {
+            "name" : "Maria",
+            "Tipo" : "autora",
+            "Idade" : 26,
+            "Email" : "maria@example.com",
+            "Social" : {
+                "Twitter" : "@maria",
+                "Facebook" : "fb.com/maria"
+            }
+        },
+        {
+            "name" : "vitoria",
+            "Tipo" : "Leitura",
+            "Idade" : 29,
+            "Email" : "vitoria@example.com",
+            "Social" : {
+                "Twitter" : "@vitoria",
+                "Facebook" : "fb.com/vitoria"
+            }
+        }
+    ]
+}

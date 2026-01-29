@@ -1,0 +1,18 @@
+// vamos trabalhar com servidores HTTP.
+
+package main
+
+import (
+	"log"
+	"net/http"
+)
+
+func main() {
+	fs := http.FileServer(http.Dir("./Estrutura/ServidorEstatico/"))
+	http.Handle("/", fs)
+	log.Println("Server started on port 3000")
+	err := http.ListenAndServe(":3000", nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+}

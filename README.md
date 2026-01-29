@@ -41,6 +41,18 @@ Os arquivos estão organizados por temas de estudo:
 - `problema2.go` → Desafio de lógica (nível progressivo)
 - `PingPongDesafio.go` → Desafio prático com goroutines e channels (Ping-Pong)
 
+### 🔹 Aplicações e Exemplos Práticos
+
+📁 APIRest/
+Exemplos de criação de uma API REST em Go, abordando conceitos como rotas, handlers e respostas HTTP.
+
+📁 Json/
+Exemplos de manipulação de dados JSON em Go, incluindo encoding e decoding entre structs e JSON.
+
+📁 ServidorEstatico/
+Implementação de um servidor HTTP estático em Go, demonstrando como servir arquivos e páginas usando a biblioteca padrão.
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
